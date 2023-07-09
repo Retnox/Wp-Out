@@ -1,5 +1,5 @@
-# coded by kdo 
-# Encrypted by zork ! 
+ 
+# Encrypted by retnoc 
  
 
 import base64, codecs
