@@ -1,10 +1,10 @@
 # Wp-Out
 
-What is Wp-Out p@id Version System ? This is locker which can lock unlimitedly number wp only. Many times you just want to annoy or play a prank on your friends. If you find yourself in that situation then this Wp-out is the perfect tool for you! You can send unlimited Lock to anyone. This awesome app works with every operator/carrier. this tool made by @retnox
+This is deactivate which can deactivate unlimitedly number wp only. Many times you just want to annoy or play a prank on your friends. You can deactivate unlimited anyone Wp. this tool made by @retnox
 
 Wp-Out Features Lock Any Number with one click.
 
-Supports newest Android also.
+Supports All Android.
 
 Instant delivery 10s delay.
 
@@ -20,32 +20,33 @@ All country.
 
 Update script when i will update repository.
 
-Installation & Step's apt update && apt upgrade
+Installation & Step's 
 
-git clone https://github.com/Retnox/Wp-Out.git
+# apt update && apt upgrade
 
-cd Wp-Out
+# git clone https://github.com/Retnox/Wp-Out.git
 
-python3 Run.py
+# cd Wp-Out
 
-Use daily script command Code >>>
+# python3 Run.py
 
-cd Wp-Out;python3 server.py
+# Use daily script command Code >>>
+
+# cd Wp-Out
+
+#python3 server.py
 
 <<< Code Exited
 
 use in one window of termux or linux !
 
-[ Note : Whenever you want to run script of whatsapp Out after setup use this code to direct run the script ]
+Note : Whenever you want to run script of whatsapp Out after setup use this code to direct run the script ]
 
-After Server gets Started ....[ read downside ]
+After Server gets Started ....
 
-Use daily script command Code >>>
+# cd Wp-Out
 
-cd Wp-Out;python3 main.py
+# python3 main.py
 
-<<< Code Exited
 
-[ Note : Whenever you want to run script of whatsapp Out after setup use this code to direct run the script ]
-
-This tool will not work still server not connected
+This tool will not work now still server not connected
