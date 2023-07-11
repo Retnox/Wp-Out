@@ -3,7 +3,7 @@
 from builtins import *
 from math import prod as DetectVar
 
-obfuscator by @retnox
+obfuscator by retnox
 
 __code__ = 'print("Hello world!")'
 
