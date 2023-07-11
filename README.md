@@ -1,4 +1,4 @@
-  <img src="./img.png" alt="Anubis" />
+  <img src="./img.png" alt="Wp-Out" />
 
 # Wp-Out
 
