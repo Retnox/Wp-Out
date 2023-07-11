@@ -1,9 +1,12 @@
- 
-# Encrypted by retnox
 from builtins import *
 from math import prod as DetectVar
 
-obfuscator by retnox
+
+__obfuscator__ = 'Hyperion'
+__authors__ = ('billythegoat356', 'BlueRed')
+__github__ = 'https://github.com/billythegoat356/Hyperion'
+__discord__ = 'https://discord.gg/plague'
+__license__ = 'EPL-2.0'
 
 __code__ = 'print("Hello world!")'
 
@@ -85,5 +88,3 @@ if __name__ == '__main__':
 
         elif 103902 > 4125299:
             _divide.Square(StackOverflow = 63797 + _divide.Algorithm)
-
-
