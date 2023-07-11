@@ -1,3 +1,4 @@
+#Encrypted by retnox
 from builtins import *
 from math import prod as _calculate
 
