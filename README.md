@@ -1,4 +1,3 @@
-<div align="center" id="top"> 
   <img src="./img.png" alt="Anubis" />
 
 # Wp-Out
