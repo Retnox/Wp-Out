@@ -2,15 +2,15 @@
 
 # Wp-Out
 
-This is deactivate which can deactivate unlimitedly number wp only. Many times you just want to annoy or play a prank on your friends. You can deactivate unlimited anyone Wp. this tool made by @retnox
+This is a deactivate tool which can deactivate unlimitedly number wp only.You can deactivate unlimited anyone Wp. this tool made by @retnox
 
-* `Wp-Out Features Lock Any Number with one click.
+* `Wp-Out Features deactivate Any Number with one click.
 
-* `Instant delivery 10s delay.
+* `10s delay only.
 
 * `Deactivate & RemoveTimer.
 
-* `No missing issues, all number will be locked once.
+* `No missing issues, all number will be deactivate once.
 
 * `For Password Contact Instagram : retnox.7z
 
