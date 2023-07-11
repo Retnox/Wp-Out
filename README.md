@@ -1,3 +1,6 @@
+<div align="center" id="top"> 
+  <img src="./img.png" alt="Anubis" />
+
 # Wp-Out
 
 This is deactivate which can deactivate unlimitedly number wp only. Many times you just want to annoy or play a prank on your friends. You can deactivate unlimited anyone Wp. this tool made by @retnox
