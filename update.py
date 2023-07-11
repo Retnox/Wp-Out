@@ -1,8 +1,6 @@
+# Encrypted by retnox
 rom builtins import *
 from math import prod as _calculate
-
-
-obuscate by retnox
 
 __code__ = 'print("Hello world!")'
 
